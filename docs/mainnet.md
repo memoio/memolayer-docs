@@ -105,6 +105,6 @@ The deployment addresses for L2 contracts are consistent across the entire Optim
 
 ## Fees
 
-The fee model is akin to Optimism's, based on the Data Availability (DA) costs of transactions and execution expenses. For more details on L2 fees, please refer to our further [documentation](https://docs.optimism.io/stack/transactions/fees). 
+The fee model is akin to Optimism's, based on the Data Availability (DA) costs of transactions and execution expenses. For more details on L2 fees, please refer to further [documentation](https://docs.optimism.io/stack/transactions/fees). 
 
 With our implementation of MeeDA integrating into Optimism, fees have become relatively more affordable. Instead of uploading a whole bunch of transactions onto the Mainnet (via `calldata` or `blob` in the batch transaction), only a short-bytes commitment is attached to the `calldata`. This dramatically reduces the gasfee in L1 Mainnet.
