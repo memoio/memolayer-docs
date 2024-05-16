@@ -5,3 +5,4 @@
 * [Fees](./docs/fee.md)
 * [Network Information](./docs/network/network.md)
     * [Contracts](./docs/network/contracts.md)
+* [Running a Node](./docs/runnode.md)
