@@ -8,10 +8,10 @@ The mainnet of MemoLayer is deployed on the Ethereuem mainnet network.
 
 | Network Name | MemoLayer Mainnet |
 | :--- | :--- |
-| RPC Endpoint |  |
+| RPC Endpoint | http://3.16.113.242:8545 |
 | Chain ID | 9859 |
 | Currency Symbol | ETH |
-| Block Explorer |  |
+| Block Explorer | http://183.240.197.189:12180/ |
 | Proposer Interval | 12 hrs |
 | Batcher Interval | 12 hrs |
 | L2 Block Time | 2 s |
@@ -22,10 +22,10 @@ The testnet of MemoLayer is deployed on the Ethereuem Sepolia testnet network.
 
 | Network Name | MemoLayer Testnet |
 | :--- | :--- |
-| RPC Endpoint |  |
+| RPC Endpoint | http://52.14.111.12:8545 |
 | Chain ID | 11155985 |
 | Currency Symbol | Sepolia ETH |
-| Block Explorer |  |
+| Block Explorer | http://183.240.197.189:22280/ |
 | Proposer Interval | 1 hrs |
 | Batcher Interval | 12 hrs |
 | L2 Block Time | 2 s |
@@ -36,7 +36,7 @@ The devnet of MemoLayer is deployed on the Memo Megrez mainnet network.
 
 | Network Name | MemoLayer Mainnet |
 | :--- | :--- |
-| RPC Endpoint |  |
+| RPC Endpoint | http://13.58.245.154:8545 |
 | Chain ID | 985985 |
 | Currency Symbol | CMEMO |
 | Block Explorer |  |
