@@ -6,3 +6,6 @@
 * [Network Information](./docs/network/network.md)
     * [Contracts](./docs/network/contracts.md)
 * [Running a Node](./docs/runnode.md)
+* [App Developers]
+    *[Bridging]
+        *[The standard Bridge](./docs/appdev/bridging/standard.md)
