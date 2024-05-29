@@ -92,10 +92,13 @@ Available `da.rpc` and `p2p.static` are listed below:
 
 | parameter | value |
 | --- | --- |
-| da.rpc |  |
-| p2p.static (mainnet) |  |
-| p2p.static (testnet) |  |
-| p2p.static (devnet) |  |
+| da.rpc | http://183.240.197.189:11180 |
+| p2p.static (mainnet) | /ip4/3.16.113.242/tcp/9222/p2p/16Uiu2HAmNM1HyJLZ7APxzba1zRwWCPi7iSnq7PLy7dQcpxLjLLqu |
+| p2p.static (testnet) | /ip4/52.14.111.12/tcp/9222/p2p/16Uiu2HAmE4W3r7eADMgBxCwHLxyt3rfUnpMeUpFBEeBNHAgTvbSb |
+| p2p.static (devnet) | /ip4/13.58.245.154/tcp/9222/p2p/16Uiu2HAmSckdyi4jtSkhAbRQRUoEhbJyhRMdYqtCxMxSCNdwrBzr |
+| L1_RPC_URL (ethereum) | https://rpc-testnet.memolayer.org |
+| L1_RPC_URL (sepolia) | https://rpc-sepolia.memolayer.org |
+| L1_RPC_URL (megrez) | http://3.134.99.244:8102 |
 
 You need to connect `op-node` to a L1 node in order to trace L1 blocks. Infura or other similar services are recommended, or run a self-operated full node.
 

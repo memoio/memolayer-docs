@@ -27,10 +27,12 @@ To add MemoLayer as a custom network to MetaMask:
 4. Choose **Add a network manually**.
 5. In the **Add a network manually** dialog, enter the following information:
     1. **Network Name**: MemoLayer
-    2. **RPC Endpoint**:
+    2. **RPC Endpoint**: http://rpc.memolayer.org
     3. **Chain ID**: 9859
     4. **Currency Symbol**: ETH
-    5. **Block Explorer**:
+    5. **Block Explorer**: https://memoscan.org
+
+![fig01](../image/memolayer-metamask.png)
 
 ### Other Wallet
 
@@ -55,7 +57,7 @@ MemoLayer enables users to deposit ETH and other tokens, such as USDC, USDT, and
   </tr>
   <tr>
     <td>RPC Endpoint</td>
-    <td></td>
+    <td>http://rpc.memolayer.org</td>
   </tr>
   <tr>
     <td>Chain ID</td>
@@ -67,7 +69,7 @@ MemoLayer enables users to deposit ETH and other tokens, such as USDC, USDT, and
   </tr>
   <tr>
     <td>Block Explorer</td>
-    <td></td>
+    <td>https://memoscan.org</td>
   </tr>
   <tr>
     <td>Bridge</td>
